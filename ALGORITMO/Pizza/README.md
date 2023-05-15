@@ -20,8 +20,8 @@
 
 
 #     Ejerecicio#2
-#  hot   y  frio
-
-
-
-                                
+#  hot   y   fio 
+#  Descipcon  
+#    Defina un algoitmo que pueda convetir  de      celsius a  fahrenheit  y viceversa
+#     Algoritmo   f=  (cx9/5+32
+#  f=  (C* (9/5) + 32 
