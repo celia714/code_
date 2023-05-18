@@ -25,3 +25,6 @@
 #    Defina un algoitmo que pueda convetir  de      celsius a  fahrenheit  y viceversa
 #     Algoritmo   f=  (cx9/5+32
 #  f=  (C* (9/5) + 32 
+
+Volumen de la piramide
+<!-- es  igual  a  1/3  .  el area de la base . Altura de la piramide. Aqui  "Ab"  es el area de  la  base  y  "h"  es  la  altura de la  piramide
